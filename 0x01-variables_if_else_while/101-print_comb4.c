@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- *
  * main - prints possible outcomes of three digits
  *
  * Return: 0 if (successful)
- *
  */
 
 int main(void)
