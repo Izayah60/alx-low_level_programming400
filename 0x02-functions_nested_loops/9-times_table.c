@@ -12,7 +12,7 @@ void times_table(void)
 	int tens = 0;
 	int n = 0;
 
-	while ( row < 10)
+	while (row < 10)
 	{
 		while (col < 10)
 		{
